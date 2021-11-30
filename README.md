@@ -5,7 +5,7 @@
 1. docker
 2. docker-compose
 
-### Starting the app
+### Starting the app with docker-compose
 ```shell
 docker-compose build
 docker-compose up -d
